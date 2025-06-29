@@ -1,6 +1,6 @@
-Here's a simple and clear `README.md` for your Playwright testing script:
 
-````markdown
+
+
 # Playwright Visual Regression Test
 
 This project uses [Playwright](https://playwright.dev/) to run visual regression tests on web pages.
@@ -13,7 +13,7 @@ This project uses [Playwright](https://playwright.dev/) to run visual regression
   ```bash
   npm install -g pnpm
   ```
-````
+
 
 - Playwright dependencies installed:
 
